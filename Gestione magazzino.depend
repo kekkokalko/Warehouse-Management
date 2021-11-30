@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1580129859 source:c:\users\utente\desktop\nuova cartella (3)\nuova cartella\gestione magazzino\gestione magazzino\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1580129941 source:c:\users\utente\desktop\nuova cartella (3)\nuova cartella\gestione magazzino\gestione magazzino\funzioni.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1580132501 source:c:\users\utente\desktop\programmazione 1\progetto programmazione orale\gestione magazzino\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1580132980 source:c:\users\utente\desktop\programmazione 1\progetto programmazione orale\gestione magazzino\funzioni.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1580296233 source:c:\users\utente\desktop\gestione magazzino\funzioni.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1580223612 source:c:\users\utente\desktop\gestione magazzino\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"Funzioni.h"
+
+1580223391 c:\users\utente\desktop\gestione magazzino\funzioni.h
+
+1580544393 source:c:\users\utente\desktop\progetto programmazione orale\gestione magazzino\funzioni.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1580544393 source:c:\users\utente\desktop\progetto programmazione orale\gestione magazzino\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"Funzioni.h"
+
+1580544393 c:\users\utente\desktop\progetto programmazione orale\gestione magazzino\funzioni.h
+
+1581162235 source:c:\users\utente\desktop\relazione_calcopietro_francesco\calcopietro francesco - c\calcopietro francesco - gestione magazzino\funzioni.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1581162235 source:c:\users\utente\desktop\relazione_calcopietro_francesco\calcopietro francesco - c\calcopietro francesco - gestione magazzino\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"Funzioni.h"
+
+1581162235 c:\users\utente\desktop\relazione_calcopietro_francesco\calcopietro francesco - c\calcopietro francesco - gestione magazzino\funzioni.h
+
+1581162235 source:c:\users\utente\desktop\relazione_calcopietro_francesco1\calcopietro francesco - c\calcopietro francesco - gestione magazzino\funzioni.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1581163600 source:c:\users\utente\desktop\relazione_calcopietro_francesco1\calcopietro francesco - c\calcopietro francesco - gestione magazzino\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+	"Funzioni.h"
+
+1581162235 c:\users\utente\desktop\relazione_calcopietro_francesco1\calcopietro francesco - c\calcopietro francesco - gestione magazzino\funzioni.h
+
