@@ -18,6 +18,7 @@ Make at least 3 simulations considering warehouse management for 10 days
 consecutive.
 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
+
 Questa è la seconda parte di un progetto implementato in C durante il mio primo anno universitario. La prima parte è definita dal problema chiamato "Lettura Numerica".
 
 La traccia del problema è:
