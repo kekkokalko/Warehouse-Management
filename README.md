@@ -3,6 +3,8 @@ Management of a warehouse of electronic products.
 
 This is the second part of a project implemented in C during my first year of university. The first part is "Numerical Reading".
 
+![Immagine 2021-12-05 112114](https://user-images.githubusercontent.com/94131849/144742605-bd19252f-b728-4f9e-a92e-c5acf74c6c19.png)
+
 The trace of the problem is:
 Let's consider a warehouse of electronic products. Each product is identified by a
 code, from the name of the product, a specification, the quantity of stock in the warehouse and the
@@ -20,6 +22,8 @@ consecutive.
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ 
 
 Questa è la seconda parte di un progetto implementato in C durante il mio primo anno universitario. La prima parte è definita dal problema chiamato "Lettura Numerica".
+
+![Immagine 2021-12-05 112114](https://user-images.githubusercontent.com/94131849/144742605-bd19252f-b728-4f9e-a92e-c5acf74c6c19.png)
 
 La traccia del problema è:
 Consideriamo un magazzino di prodotti elettronici. Ogni prodotto è identificato da un
